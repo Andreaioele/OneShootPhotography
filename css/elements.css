@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 768px) {
     .logo {
-        width: 60%;
+        width: 85%;
     }
 }
 
@@ -20,6 +20,8 @@
         width: 100%;
     }
 }
+
+
 
 #main-header {
     margin: 20px 40px 0;
